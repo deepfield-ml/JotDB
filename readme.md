@@ -30,14 +30,14 @@ JotDB (JSON Optimized Tiny Database) is a lightweight, high-performance Go libra
 
 ## Installation
 
-1. Ensure you have Go installed (version 1.18 or later recommended).
+1. Ensure you have Go installed (version 1.24 or later recommended).
 2. Install JotDB and its dependency, Bitcask:
 
 ```bash
 go get github.com/prologic/bitcask
 ```
 
-3. Call JotDB from GO as `github.com/deepfield-ml/JotDB ` , run ` go get github.com/deepfield-ml/JotDB ` then import `github.com/deepfield-ml/JotDB` in code.
+3. Call JotDB from GO as `github.com/deepfield-ml/JotDB/jotdb0.01 ` , run ` github.com/deepfield-ml/JotDB/jotdb0.01 ` then import `github.com/deepfield-ml/JotDB/jotdb0.01 ` in code.
 
 ## Usage
 
