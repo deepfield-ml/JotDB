@@ -1,4 +1,4 @@
-module github.com/deepfield-ml/JotDB
+module github.com/deepfield-ml/JotDB/jotdb0.01
 
 go 1.24.0
 
