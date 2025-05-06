@@ -125,7 +125,7 @@ Contributions are welcome! Please submit issues or pull requests to improve JotD
 
 ## License
 
-JotDB is licensed under the Apache 2.0 License. See [LICENSE](https://deepfield-ml/JotDB/LICENSE) for details.
+JotDB is licensed under the Apache 2.0 License. See [LICENSE](https://github.com/deepfield-ml/JotDB/blob/master/LICENSE) for details.
 
 ## Acknowledgments
 
