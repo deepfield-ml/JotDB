@@ -19,7 +19,7 @@ JotDB (JSON Optimized Tiny Database) is a lightweight, high-performance Go libra
 go get github.com/prologic/bitcask
 ```
 
-3. Clone or copy the JotDB source files (`jotdb.go`, `json_marshal.go`, `json_unmarshal.go`, `types.go`) into your project under the `jotdb` package.
+3. Call JotDB from GO as JotDB/V0.01, run ` go get JotDB/V0.01 ` then import `JotDB/V0.01` in code.
 
 ## Usage
 
