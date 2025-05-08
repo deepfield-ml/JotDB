@@ -1,5 +1,5 @@
 # Security Policy
-
+By using our code, you understand that the authors of JotDB and Deepfield ML members pay no responsibility to the harm done including but not limited to your device or software. 
 ## Supported Versions
 
 
