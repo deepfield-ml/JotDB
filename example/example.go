@@ -1,7 +1,7 @@
 package main
 
 import (
-	jotdb "JotDB/V0.01"
+	"github.com/deepfield-ml/JotDB/tree/V0.02"
 	"fmt"
 )
 
