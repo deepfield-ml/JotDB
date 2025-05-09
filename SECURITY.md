@@ -6,7 +6,7 @@ By using our code, you understand that the authors of JotDB and Deepfield ML mem
 | Version | Supported          |
 | ------- | ------------------ |
 | V0.01  | :white_check_mark: |
-|   | :x:                |
+| V0.02  | :white_check_mark:                |
 |   | :x:                |
 |   | :x:                |
 
